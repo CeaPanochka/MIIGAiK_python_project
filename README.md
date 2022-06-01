@@ -1,3 +1,18 @@
-# backend_community_homework
+# Проект социальной сети
 
-[![CI](https://github.com/yandex-praktikum/hw02_community/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/yandex-praktikum/hw02_community/actions/workflows/python-app.yml)
+## Установка и запуск
+1. Клонирование проекта
+2. Установка виртуального окружения
+3. pip install -r requirements.txt
+4. cd yatube/
+5. python manage.py runserver
+
+Готовый функционал: 
+- Просмотр постов
+- Авторизация/ Регистрация/ Сброс пароля
+
+Ещё в работе:
+- Создание и редактирование постов.
+
+Технологии:
+Python, Django, Bootstrap
